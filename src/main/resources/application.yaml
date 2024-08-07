@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ecommerce_application_db
+    username: root
+    password: ayush@123
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  application:
+    name: ECOMMERCE-SERVICE
+
+
+  profiles:
+    active: dev
