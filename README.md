@@ -36,7 +36,7 @@
 - Swagger UI
 
 # Running the app
-1. Clone the repository: git clone https://github.com/ishrivasayush/E-Commerce-Application.git
+1. Clone the repository: git clone https://github.com/thexsharma30/SpringMart.git
 2. Import the project into STS:
   - Click File > Import...
   - Select Maven > Existing Maven Projects and click Next
@@ -79,12 +79,12 @@
 
 ## 6. Original Creator:
 
-Author: Ayush Shrivastava
+Author: Amar Sharma
  
-Github Project Name: E-Commerce Backend Application
+Github Project Name: E-Commerce Backend Application (SpringMart)
 
 
-Date: 4 Feb, 2023
+Date: 4 July, 2024
 
 
 
