@@ -48,26 +48,26 @@
 - API documentation is available via Swagger UI at http://localhost:8081/swagger-ui/index.html
 
 # ER-Diagram
-
-![Screenshot (1034)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/37feec02-9c87-4701-ab15-5915f43f496d)
+![Screenshot 2024-08-27 201815](https://github.com/user-attachments/assets/2e3bc3e9-989e-4497-a2ae-4e155341802a)
 
 # Swagger-ui
-![Screenshot (1025)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/e055603e-4232-41d2-8efe-72bc186fae97)
+![Screenshot 2024-08-27 201815](https://github.com/user-attachments/assets/5d6c50f3-cd96-43f9-b6ff-29b691bfd41d)
+
 
 # API Controllers
-![Screenshot (1026)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/ad7ac662-2020-4f6c-8520-b6f160e1a445)
+![image](https://github.com/user-attachments/assets/1b6f358f-4ee3-4e49-b258-bc2a0400cfc9)
 
-![Screenshot (1027)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/87bce782-e590-4512-94d1-dd51a824b1f4)
+![image](https://github.com/user-attachments/assets/26bd9359-0766-4032-983c-0020ea92d9b8)
 
-![Screenshot (1028)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/11f148a9-a342-44b5-827a-969a566cf81f)
+![image](https://github.com/user-attachments/assets/0f0f36be-da6d-4c12-a5c1-ea58332aa2b1)
 
-![Screenshot (1029)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/4a55c099-9f6f-477a-afd4-f1340da9bf78)
+![image](https://github.com/user-attachments/assets/2e92fd08-0032-4a68-bea9-f0f3ae96569f)
 
-![Screenshot (1030)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/6e9c1499-0a1e-4923-944f-974da1903243)
+![image](https://github.com/user-attachments/assets/35cb4734-a6b3-49ec-a526-9f72469b8c47)
 
-![Screenshot (1031)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/7e0a5ad8-6da6-4865-823a-6a69da453203)
+![image](https://github.com/user-attachments/assets/41ab213b-893e-47a8-a66f-644df8263f1d)
 
-![Screenshot (1032)](https://github.com/ishrivasayush/E-Commerce-Application/assets/103355440/99fd7760-e8d5-4bc4-84c5-7d71684a25ea)
+![image](https://github.com/user-attachments/assets/821ea705-f282-4196-b91d-55c409b6ff50)
 
 
 ## ✏️Design - Back-end
