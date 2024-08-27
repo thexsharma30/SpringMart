@@ -51,13 +51,12 @@
 ![Screenshot 2024-08-27 201815](https://github.com/user-attachments/assets/2e3bc3e9-989e-4497-a2ae-4e155341802a)
 
 # Swagger-ui
-![Screenshot 2024-08-27 201815](https://github.com/user-attachments/assets/5d6c50f3-cd96-43f9-b6ff-29b691bfd41d)
-
+![image](https://github.com/user-attachments/assets/302aa352-5490-44d9-bf14-7fcc2e67b4b1)
 
 # API Controllers
-![image](https://github.com/user-attachments/assets/1b6f358f-4ee3-4e49-b258-bc2a0400cfc9)
+![image](https://github.com/user-attachments/assets/e9dcf394-396e-4c34-9be1-bce711303307)
 
-![image](https://github.com/user-attachments/assets/26bd9359-0766-4032-983c-0020ea92d9b8)
+![image](https://github.com/user-attachments/assets/2c7d5611-586b-422b-9ef6-4a710144f6a4)
 
 ![image](https://github.com/user-attachments/assets/0f0f36be-da6d-4c12-a5c1-ea58332aa2b1)
 
